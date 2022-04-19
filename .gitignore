@@ -1,0 +1,9 @@
+# npm install
+/dist
+/node_modules
+
+# vscode config
+/.vscode
+
+# mac
+/.DS_Store
